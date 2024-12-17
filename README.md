@@ -21,6 +21,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 [scattermoe: Sparse Mixture-of-Experts](https://github.com/shawntan/scattermoe)
 
 ## Transformer
+[SageAttention](https://github.com/thu-ml/SageAttention)
+
 [Liger Kernel: Efficient Triton Kernels for LLM Training](https://github.com/linkedin/Liger-Kernel)
 
 [Flash Linear Attention](https://github.com/sustcsonglin/flash-linear-attention)
